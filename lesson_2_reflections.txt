@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git initialises the metadata tracking for the repository. It needs to be done to set up version tracking.
